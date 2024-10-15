@@ -172,10 +172,10 @@ html #header .header-logo.custom-header-logo {
 html #header .header-logo.custom-header-logo:before {
 		content: '';
 		position: absolute;
-		bottom: -87px;
-		left: 40px;
-		width: 170px;
-		height: 350px;
+		bottom: -75px;
+    	left: 46px;
+    	width: 170px;
+    	height: 345px;
 		background-color: var(--grey-500);
 		opacity: 1;
 		visibility: visible;
