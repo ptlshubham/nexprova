@@ -6,13 +6,13 @@
 }
 /* Skin Colors */
 :root {
-	--primary: #E04622;
-	--primary-100: #cc3e1d;
-	--primary-200: #c13a1b;
-	--primary-300: #b63719;
-	--primary--100: #e35938;
-	--primary--200: #e56244;
-	--primary--300: #e66b4f;
+	--primary: #238b45;
+	--primary-100: #279b4d;
+	--primary-200: #2fba5c;
+	--primary-300: #33ca64;
+	--primary--100: #279b4d;
+	--primary--200: #2fba5c;
+	--primary--300: #33ca64;
 	--primary-rgba-0: rgba(224, 70, 34, 0);
 	--primary-rgba-10: rgba(224, 70, 34, 0.1);
 	--primary-rgba-20: rgba(224, 70, 34, 0.2);
